@@ -7,4 +7,4 @@ Used to summarize the tactics used for any given campaign
 
 One CSV files are subsequently saved.
 
-tactic.csv -> summary of Landing_Pages used by Sub and Pub ID
+1) tactic.csv -> summary of Landing_Pages used by Sub and Pub ID
